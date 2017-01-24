@@ -48,15 +48,20 @@ body {
 
 .post {
   margin-right: 10px;
+  font-family: fantasy;
 }
 
 .projects {
   margin-right: 10px;
+  font-family: fantasy;
 }
 
 .home {
   margin-right: 10px;
-  font: Helvetica;
+  font-family: fantasy;
+}
+
+.resume {
   font-family: fantasy;
 }
 

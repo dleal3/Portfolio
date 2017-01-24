@@ -10,7 +10,7 @@ export default React.createClass({
           <Link to="/" className="home">Home</Link>
           <Link to="/post" className="post">Blog</Link>
           <Link to="/projects" className="projects">Projects</Link>
-          <Link to="/resume">Resume</Link>
+          <Link to="/resume" className="resume">Resume</Link>
         </nav>
       </header>
     )
