@@ -1,10 +1,11 @@
 import React from 'react'
+import Header from './Header'
 
 export default React.createClass({
   render() {
     return(
       <section>
-        <h2>Hello!!!!</h2>
+
       </section>
     )
   }
